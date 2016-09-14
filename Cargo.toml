@@ -1,0 +1,12 @@
+[package]
+name = "demod_fm"
+version = "1.0.0"
+authors = ["Mick Koch <mick@kochm.co>"]
+description = "FM signal demodulator"
+license = "MIT"
+documentation = "https://docs.rs/demod_fm"
+repository = "https://github.com/kchmck/demod_fm.rs"
+keywords = ["dsp", "fm", "demodulate", "signal"]
+
+[dependencies]
+num = "0.1.0"
